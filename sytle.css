@@ -6,7 +6,7 @@
 }
 
 .container {
-    
+    background-color: black;
     height: 100vh;
     background-size: 100% 100%;
     background-image: url('https://media4.giphy.com/media/RlwF2vFb4y7bDnWvcO/giphy.gif?cid=790b7611d7507bbbdf5362e76a7d1354718417b9f679135c&rid=giphy.gif&ct=g') 
