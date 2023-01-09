@@ -8,8 +8,8 @@
 .container {
     background-color: black;
     height: 100vh;
-    background-size: 100% 100%;
-    background-image: url('https://media4.giphy.com/media/RlwF2vFb4y7bDnWvcO/giphy.gif?cid=790b7611d7507bbbdf5362e76a7d1354718417b9f679135c&rid=giphy.gif&ct=g') 
+    background-size: 100% 115%;
+    background-image: url('https://media0.giphy.com/media/26xBFdqD73Pv6tbwY/giphy.gif?cid=ecf05e47oss5wf9v24hrtzigdkoobkr5e74dgo229hi98vzh&rid=giphy.gif&ct=g') 
 }
 
 .container .navbar {
